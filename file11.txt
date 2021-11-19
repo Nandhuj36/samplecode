@@ -15,9 +15,11 @@ i<!DOCTYPE html>
         }
     </style>
 </head>
-<h1> hi this nandhu </h1> 
+<h1> hi this is nandhu </h1> 
 <body>
+
     <h1>NandhuSmart</h1>
+
     <h2>
       HTML <input> accept attribute
   </h2>

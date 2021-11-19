@@ -17,7 +17,7 @@ i<!DOCTYPE html>
 </head>
 <h1> hi this nandhu </h1> 
 <body>
-    <h1>GeeksForGeeks</h1>
+    <h1>NandhuSmart</h1>
     <h2>
       HTML <input> accept attribute
   </h2>
